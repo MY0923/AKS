@@ -7,7 +7,7 @@ variable "ARM_CLIENT_SECRET" {}
 # タグ情報
 variable "tags_def" {
   default = {
-    owner       = "ituru"
+    owner       = "AZURE_ISLAND"
     period      = "2022-04-28"
     CostCenter  = "PSG2"
     Environment = "CPDemo"
